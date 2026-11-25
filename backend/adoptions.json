@@ -1,0 +1,52 @@
+[
+  {
+    "AdoptionID": 14,
+    "UniversityID": 100724,
+    "AdoptionDate": "2026-03-15"
+  },
+  {
+    "AdoptionID": 15,
+    "UniversityID": 100725,
+    "AdoptionDate": "2026-01-10"
+  },
+  {
+    "AdoptionID": 16,
+    "UniversityID": 100724,
+    "AdoptionDate": "2026-02-20"
+  },
+  {
+    "AdoptionID": 17,
+    "UniversityID": 100726,
+    "AdoptionDate": "2026-04-12"
+  },
+  {
+    "AdoptionID": 18,
+    "UniversityID": 100727,
+    "AdoptionDate": "2026-05-08"
+  },
+  {
+    "AdoptionID": 19,
+    "UniversityID": 100724,
+    "AdoptionDate": "2026-01-25"
+  },
+  {
+    "AdoptionID": 20,
+    "UniversityID": 100725,
+    "AdoptionDate": "2026-06-14"
+  },
+  {
+    "AdoptionID": 21,
+    "UniversityID": 100726,
+    "AdoptionDate": "2026-02-05"
+  },
+  {
+    "AdoptionID": 22,
+    "UniversityID": 100728,
+    "AdoptionDate": "2026-07-19"
+  },
+  {
+    "AdoptionID": 23,
+    "UniversityID": 100727,
+    "AdoptionDate": "2026-04-30"
+  }
+]
